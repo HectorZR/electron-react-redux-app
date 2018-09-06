@@ -6,8 +6,8 @@
     $ npm run electron-dev
 
 ## React and Redux
-Preconfig package by [Francisco Veracoechea] (https://github.com/FranciscoVeracoechea).
+Preconfig package by [Francisco Veracoechea](https://github.com/FranciscoVeracoechea).
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [Electron] (https://github.com/electron/electron).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [Electron](https://github.com/electron/electron).
 
