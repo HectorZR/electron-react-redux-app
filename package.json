@@ -41,6 +41,7 @@
     "electron-dev-yarn": "concurrently \"SET BROWSER=none&&npm run start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "devDependencies": {
+    "electron-builder": "^20.28.4",
     "eslint": "^5.2.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.13.0",
