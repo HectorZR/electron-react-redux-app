@@ -38,7 +38,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "electron-dev-npm": "concurrently \"SET BROWSER=none&&npm run start\" \"wait-on http://localhost:3000 && electron .\"",
-    "electron-dev-yarn": "concurrently \"SET BROWSER=none&&npm run start\" \"wait-on http://localhost:3000 && electron .\""
+    "electron-dev-yarn": "concurrently \"SET BROWSER=none&&yarn start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "devDependencies": {
     "electron-builder": "^20.28.4",
